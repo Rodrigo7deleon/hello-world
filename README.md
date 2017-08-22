@@ -1,3 +1,3 @@
 # hello-world
 Primer repositorio EVUUUR
-I'm an bilogy student interest in evolutionary biology and systematics 
+I'm abilogy student interest in evolutionary biology and systematics 
